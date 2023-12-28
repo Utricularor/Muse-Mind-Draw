@@ -18,7 +18,7 @@ MuseMindDraw は、AI を利用してユーザーからのテキストプロン�
 1. リポジトリをクローンする：
 
 ```bash
-git clone https://github.com/your-github-username/museminddraw.git
+git clone https://github.com/Utricularor/museminddraw.git
 ```
 
 
