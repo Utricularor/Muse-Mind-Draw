@@ -30,6 +30,7 @@ npm install
 3. アプリケーションをローカルサーバーで起動する：
 
 ```bash
+cd image-generator-app
 npm start
 ```
 
