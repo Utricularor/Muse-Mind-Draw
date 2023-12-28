@@ -1,0 +1,31 @@
+###
+# image-generator-app
+###
+
+# dependencies
+image-generator-app/node_modules/
+image-generator-app/.pnp
+image-generator-app/.pnp.js
+
+# testing
+image-generator-app/coverage
+
+# production
+image-generator-app/build
+
+# misc
+image-generator-app/.DS_Store
+image-generator-app/.env.local
+image-generator-app/.env.development.local
+image-generator-app/.env.test.local
+image-generator-app/.env.production.local
+
+image-generator-app/npm-debug.log*
+image-generator-app/yarn-debug.log*
+image-generator-app/yarn-error.log*
+
+###
+# image_generate_api
+###
+image_generate_api/__pycache__/
+
